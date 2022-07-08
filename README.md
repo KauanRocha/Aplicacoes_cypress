@@ -10,3 +10,5 @@ Aqui vocẽ encontrará um pouco dos meus testes e demostrações dos meus conhe
 
 # Informações
 - Teste efetuado no website: https://devfinance-agilizei.netlify.app/
+
+# Para acessar aos codigos principais siga: cypress/e2e.
