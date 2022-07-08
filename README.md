@@ -1,5 +1,5 @@
 # Teste website devfinance
-Aqui vocẽ encontrará um pouco dos meus testes e demostrações dos meus conhecimentos em cypress.
+Aqui você encontrará um pouco dos meus testes e demostrações dos meus conhecimentos em cypress.
 
 # Tecnologias utilizadas 
 - Node 16.15.1
